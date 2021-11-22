@@ -1,6 +1,5 @@
 ### Hi there, I'm Alexander - aka [Scott-Kinzer][website] 👋 
 
-## I'm a Developer!
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Interested in Front-end Development
