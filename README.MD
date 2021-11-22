@@ -1,4 +1,4 @@
-### Hi there, I'm Alexander - aka [Scott-Kinzer]][website] 👋 
+### Hi there, I'm Alexander - aka [Scott-Kinzer][website] 👋 
 
 ## I'm a Developer!
 
