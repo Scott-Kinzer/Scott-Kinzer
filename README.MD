@@ -1,7 +1,7 @@
 ### Hi there, I'm Alexander - aka [Scott-Kinzer][website] 👋 
 
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning JS
 - ⚡ Interested in Front-end Development
 
 ### Connect with me:
