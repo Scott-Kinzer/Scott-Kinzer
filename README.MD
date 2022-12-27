@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning JS
 - ⚡ Interested in Front-end Development
 
+<a href="https://www.codewars.com/users/Z4A4b">Codewars</a>
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
