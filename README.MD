@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JS
 - ⚡ Interested in Front-end Development
 
-<a href="https://www.codewars.com/users/Z4A4b">Codewars</a>
+<a href="https://www.codewars.com/users/KarpivOleksandr">Codewars</a>
 
 ### Connect with me:
 
