@@ -8,7 +8,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.svgrepo.com/show/302570/website.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.svgrepo.com/show/110195/linkedin.svg" />][linkedin]
 
 
