@@ -9,7 +9,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.svgrepo.com/show/302570/website.svg" />][website]
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.svgrepo.com/show/110195/linkedin.svg" />
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.svgrepo.com/show/110195/linkedin.svg" />][linkedin]
 
 
 <br />
@@ -30,5 +30,7 @@
 ---
 
 
-[website]: https://scott-kinzer.github.io/Portfolio/
+[website]: https://scott-kinzer.github.io/Portfolio
+[linkedin]: https://www.linkedin.com/in/oleksandr-karpiv-086553210
+
 
