@@ -1,8 +1,5 @@
-### Hi there, I'm Alexander - aka [Scott-Kinzer][website] 👋 
 
-
-- 🌱 I’m currently learning JS
-- ⚡ Interested in Front-end Development
+- Javascript dev
 
 <a href="https://www.codewars.com/users/KarpivOleksandr">Codewars</a>
 
@@ -29,7 +26,4 @@
 ---
 
 
-[website]: https://scott-kinzer.github.io/Portfolio
 [linkedin]: https://www.linkedin.com/in/oleksandr-karpiv-086553210
-
-
