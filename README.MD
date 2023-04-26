@@ -1,7 +1,6 @@
 
-- Javascript dev
-
-<a href="https://www.codewars.com/users/KarpivOleksandr">Codewars</a>
+- Javascript developer
+- <a href="https://www.codewars.com/users/KarpivOleksandr">Codewars</a>
 
 ### Connect with me:
 
