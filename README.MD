@@ -2,7 +2,7 @@
 - Javascript developer
 - <a href="https://www.codewars.com/users/KarpivOleksandr">Codewars</a>
 - <a href="https://leetcode.com/SashaZ4A4/">Leetcode</a>
-- <a href="https://scott-kinzer.github.io/cv.pdf">CV</a>
+- <a href="https://scott-kinzer.github.io/about-me.pdf">CV</a>
 
 
 ### Connect with me:
