@@ -22,6 +22,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Typescript" width="26px" src="https://www.svgrepo.com/show/439022/typescript.svg" />
 <img align="left" alt="Nest" width="26px" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*zRv5TkRmhAyLnG-t.png" />
+<img align="left" alt="Nest" width="26px" src="https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/ywjqppks5ffcnbfjuttq" />
 
 <br />
 <br />
