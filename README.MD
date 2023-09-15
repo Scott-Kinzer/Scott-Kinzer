@@ -14,12 +14,11 @@
 
 ### Languages and Tools:
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,docker,express,firebase,git,gitlab,jest,jquery,linux,mysql,nestjs,nextjs,postgres,postman,react,rust,ts,xd,prisma&perline=11" />
+    <img height="60px" src="https://skillicons.dev/icons?i=js,html,css,nodejs,docker,express,firebase,git,gitlab,jest,jquery,linux,mysql,nestjs,nextjs,postgres,postman,react,rust,ts,xd,prisma&perline=11" />
   </a>
 </p>
----
 
 
 [linkedin]: https://www.linkedin.com/in/oleksandr-karpiv-086553210
