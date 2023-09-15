@@ -7,8 +7,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://www.svgrepo.com/show/110195/linkedin.svg" />][linkedin]
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/oleksandr-karpiv-086553210">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 <br />
 
