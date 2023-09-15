@@ -1,7 +1,7 @@
 
 - <code>Javascript developer</code>
 - <code><a href="https://www.codewars.com/users/KarpivOleksandr">Codewars</a></code>
-- <code><a href="https://leetcode.com/SashaZ4A4/">Leetcode</a></code>
+- <code><a href="https://leetcode.com/OleksandrKarpiv/">Leetcode</a></code>
 - <code><a href="https://scott-kinzer.github.io/about-me.pdf">CV</a></code>
 
 
