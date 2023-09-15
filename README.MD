@@ -14,12 +14,11 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,docker,express,firebase,git,gitlab,jest,jquery,linux,mysql,nestjs,nextjs,postgres,postman,react,rust,ts,xd,prisma&perline=11)](https://skillicons.dev)
-
-
-<br />
-<br />
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,docker,express,firebase,git,gitlab,jest,jquery,linux,mysql,nestjs,nextjs,postgres,postman,react,rust,ts,xd,prisma&perline=11" />
+  </a>
+</p>
 ---
 
 
