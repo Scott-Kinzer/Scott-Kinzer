@@ -9,7 +9,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/oleksandr-karpiv-086553210">
-    <img height="30" src="https://skillicons.dev/icons?i=linkedin" />
+    <img height="30px" src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
