@@ -25,7 +25,7 @@
 <img align="left" alt="Docker" width="26px" src="https://www.vhv.rs/dpng/d/417-4177618_docker-logo-png-transparent-png.png" />
 <img align="left" alt="Node" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" />
 <img align="left" alt="Postgres" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
-<img align="left" alt="Tailwind" width="26px" src="https://logowik.com/content/uploads/images/tailwind-css3232.logowik.com.webp" />
+<img align="left" alt="Tailwind" width="26px" src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" />
 
 <br />
 <br />
