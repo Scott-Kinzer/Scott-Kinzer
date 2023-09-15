@@ -19,10 +19,10 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="26px" src="https://w7.pngwing.com/pngs/182/979/png-transparent-github-repository-commit-version-control-github-angle-rectangle-logo.png" />
 <img align="left" alt="Typescript" width="26px" src="https://www.svgrepo.com/show/439022/typescript.svg" />
 <img align="left" alt="Nest" width="26px" src="https://pbs.twimg.com/profile_images/1110148780991623201/vlqCsAVP_400x400.png" />
-<img align="left" alt="Docker" width="26px" src="https://w7.pngwing.com/pngs/627/244/png-transparent-docker-logo-logos-logos-and-brands-icon-thumbnail.png" />
+<img align="left" alt="Docker" width="26px" src="https://www.vhv.rs/dpng/d/417-4177618_docker-logo-png-transparent-png.png" />
 <img align="left" alt="Node" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" />
 <img align="left" alt="Postgres" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
 
