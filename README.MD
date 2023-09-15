@@ -15,9 +15,7 @@
 ### Languages and Tools:
 
 <p align="left">
-  <a href="https://skillicons.dev">
     <img height="60px" src="https://skillicons.dev/icons?i=js,html,css,nodejs,docker,express,firebase,git,gitlab,jest,jquery,linux,mysql,nestjs,nextjs,postgres,postman,react,rust,ts,xd,prisma&perline=11" />
-  </a>
 </p>
 
 
